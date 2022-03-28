@@ -12,6 +12,7 @@ namespace P18ZadaniePogoda
     {
         static void Main(string[] args)
         {
+            // hej
             const char znak = '°';
             const char znakKoncowy = '>';
 
