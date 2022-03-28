@@ -1,0 +1,4 @@
+﻿
+Poproś o wczytanie dowolnego zdania np: Ala ma kota
+wyświetl najdluzszy wyraz 
+
